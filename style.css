@@ -87,7 +87,7 @@ body {
   }
 
   .circle-container{
-    display: flex;
+    display: relative;
     flex: 1;
   }
 
